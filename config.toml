@@ -1,5 +1,5 @@
 title = "In pausa"
-baseURL = "http://fpiantini.it/"
+baseURL = "https://fpiantini.it/"
 languageCode = "it-it"
 theme = "ananke"
 MetaDataFormat = "yaml"
